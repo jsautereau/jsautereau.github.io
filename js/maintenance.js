@@ -64,7 +64,7 @@ function readTextFile(file)
     return allText;
 }
 
-console.log(readTextFile("basic.ics"));
+//console.log(readTextFile("basic.ics"));
 
 afficheHeure();
 heureCourante();
