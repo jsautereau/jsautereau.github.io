@@ -1,0 +1,16 @@
+/* Styles de mon Web Site */
+.container {
+  text-align: center;
+  margin: 0 auto;
+}
+
+#bodyPrincipal {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.image-center {
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+}
